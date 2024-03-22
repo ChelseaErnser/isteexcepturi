@@ -1,0 +1,39 @@
+{
+  "name": "isteexcepturi",
+  "version": "1.0.0",
+  "description": "TypeScript implementation of Twofish encryption.",
+  "main": "bin/index.js",
+  "files": [
+    "bin/index.js",
+    "bin/index.d.ts"
+  ],
+  "keywords": [
+    "twofish",
+    "encryption"
+  ],
+  "author": "ClementineYost",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^4.2.14",
+    "@types/mocha": "^8.0.4",
+    "@typescript-eslint/eslint-plugin": "^4.9.1",
+    "@typescript-eslint/parser": "^4.9.1",
+    "chai": "^4.2.0",
+    "eslint": "^7.15.0",
+    "jsmin": "^1.0.1",
+    "mocha": "^8.2.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChelseaErnser/isteexcepturi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChelseaErnser/isteexcepturi.git/issues"
+  },
+  "homepage": "https://github.com/ChelseaErnser/isteexcepturi.git"
+}
